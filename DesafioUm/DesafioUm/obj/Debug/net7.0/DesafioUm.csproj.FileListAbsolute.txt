@@ -1,0 +1,15 @@
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/bin/Debug/net7.0/DesafioUm
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/bin/Debug/net7.0/DesafioUm.deps.json
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/bin/Debug/net7.0/DesafioUm.runtimeconfig.json
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/bin/Debug/net7.0/DesafioUm.dll
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/bin/Debug/net7.0/DesafioUm.pdb
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.csproj.AssemblyReference.cache
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.AssemblyInfoInputs.cache
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.AssemblyInfo.cs
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.csproj.CoreCompileInputs.cache
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.dll
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/refint/DesafioUm.dll
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.pdb
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/DesafioUm.genruntimeconfig.cache
+/Users/jonathansantiago/Documents/Git/Demo/DesafioUm/DesafioUm/obj/Debug/net7.0/ref/DesafioUm.dll

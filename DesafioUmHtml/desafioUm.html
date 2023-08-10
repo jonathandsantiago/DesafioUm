@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha primeira habilidacao</title>
+</head>
+<body>
+    <h1>Exemplo de HTML com JavaScript</h1>
+    <p>Validacão de maior idade.</p>
+    <input type="text" id="txtIdade"/>
+
+    <button id="botao" onclick="validarIdade()">Clique aqui</button>
+    
+    <p id="mensagem"></p>
+
+    <script>
+
+        function validarIdade()
+        {
+            const idade = document.getElementById("txtIdade").value;
+            
+            if (Number(idade) === 18)
+            {
+                console.log("Voce pode tirar habilitacao!");
+            }
+            else
+            {
+                console.log("Voce pode nao pode tirar habilitacao!");
+            }
+        }
+
+    </script>
+</body>
+</html>
